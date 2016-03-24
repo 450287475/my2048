@@ -39,6 +39,7 @@ public class Home extends AppCompatActivity implements View.OnClickListener {
         rl_home_content = (RelativeLayout) findViewById(R.id.rl_home_content);
         myGridlayout = new MyGridlayout(this);
         rl_home_content.addView(myGridlayout);
+        //测试一下修改到github
 
     }
 
